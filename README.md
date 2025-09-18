@@ -3,7 +3,7 @@ API REST desarrollada en Spring Boot para la gestión de clientes y facturas, in
 
 URLs importantes
 
-Frontend: https://clientes-app-997af.web.app
+--Se encuentran en application.properties
 
 Necesita Redirect URI OAuth2 dentro del front
 
