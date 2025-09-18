@@ -5,7 +5,7 @@ URLs importantes
 
 Frontend: https://clientes-app-997af.web.app
 
-Redirect URI OAuth2: https://clientes-app-997af.web.app/login/oauth2/code/angularapp
+Necesita Redirect URI OAuth2 dentro del front
 
 ⚠️ Configura esta URI en el frontend para que funcione correctamente el Authentication Flow.
 ⚙️ Configuración
